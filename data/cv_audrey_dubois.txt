@@ -1,0 +1,59 @@
+Audrey Dubois
+AI & Machine Learning Engineer | Ex-Data Scientist in Biotechnology
+LinkedIn: linkedin.com/in/audrey-dubois-ai
+GitHub: github.com/audrey-dubois
+Email: audrey.dubois.ai@email.com
+
+======================================================================
+SUMMARY
+======================================================================
+
+A highly motivated Data Scientist with over 5 years of experience in the biotechnology sector, now transitioning into a dedicated AI Engineering role. Proven track record of developing and deploying machine learning models that delivered significant improvements in drug discovery and genomic data analysis. Currently specializing in the application of Large Language Models (LLMs) and Generative AI to solve complex business problems, with a focus on building RAG (Retrieval-Augmented Generation) systems and autonomous agents.
+
+======================================================================
+PROFESSIONAL EXPERIENCE
+======================================================================
+
+**BioGen Innovations Inc.** - San Francisco, CA
+*Senior Data Scientist* (June 2021 – Present)
+
+- Led the development of a machine learning model to predict protein folding patterns from amino acid sequences. The model, a Convolutional Neural Network (CNN), achieved 92% accuracy, accelerating preliminary research stages by 30%.
+- Designed and implemented a data pipeline in Python and SQL to process and analyze high-throughput screening (HTS) data, identifying promising drug candidates 40% faster than previous manual methods.
+- Utilized clustering algorithms (K-Means) to segment patient data based on genomic markers, leading to the identification of two novel sub-groups for a clinical trial.
+- Began transitioning to AI Engineering by building a prototype chatbot using the RAG architecture and Google's Gemini API. The goal of this internal tool was to answer complex questions from researchers based on a 10,000-page library of internal scientific papers. The prototype successfully reduced query time for common questions from hours to seconds.
+
+**GeneSys Analytics** - Boston, MA
+*Data Scientist* (July 2018 – May 2021)
+
+- Developed a predictive model using Logistic Regression and Random Forest to classify cell mutations based on imaging data, achieving an F1-score of 0.88.
+- Performed extensive Exploratory Data Analysis (EDA) on clinical trial data, creating interactive dashboards in Tableau to help stakeholders track trial progress and patient outcomes.
+- Wrote complex SQL queries to extract and aggregate data from a large-scale genomics database for downstream analysis.
+- Collaborated with a team of bioinformaticians to provide data-driven insights that guided experimental design.
+
+======================================================================
+SKILLS & TECHNOLOGIES
+======================================================================
+
+- **AI & Machine Learning:**
+  - LLMs & Generative AI: RAG, Prompt Engineering, LangChain, Gemini API, OpenAI API
+  - Deep Learning: PyTorch, TensorFlow, CNNs
+  - Classic ML: Scikit-learn (Linear/Logistic Regression, Random Forest, XGBoost, K-Means)
+
+- **Programming & Data Science:**
+  - Python (Expert): Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+  - SQL (Expert): Complex Queries, Aggregations, Joins
+  - Data Visualization: Tableau, Streamlit
+
+- **Cloud & MLOps:**
+  - Cloud Platforms: Basic experience with Google Cloud Platform (GCP)
+  - MLOps Tools: Git, Docker (Beginner), FastAPI
+
+======================================================================
+EDUCATION
+======================================================================
+
+**Stanford University** - Stanford, CA
+*M.S. in Computer Science, specialization in Artificial Intelligence*
+
+**University of California, Berkeley** - Berkeley, CA
+*B.S. in Molecular and Cell Biology*

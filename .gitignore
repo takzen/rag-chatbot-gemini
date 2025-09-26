@@ -1,0 +1,19 @@
+# Secret credentials
+.env
+
+# Python caches & virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+
+# LangChain/FAISS local vector store
+# Będziemy tu zapisywać naszą wektorową bazę danych
+vector_store/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
